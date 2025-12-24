@@ -26,10 +26,11 @@ I enjoy converting ideas into working solutions and continuously improving my te
 - Clearly highlights **matched** and **unmatched** skills for transparency.
 - **Tech Stack:** Python, NLP, Text Matching
 
-- ### 🫁 Lung Sound Classification (Deep Learning)
-- Built a deep learning model to classify lung sounds for respiratory analysis.
-- Processed and analyzed audio signals to identify abnormal breathing patterns.
-- Focused on improving model accuracy through preprocessing and feature extraction.
+### 🫁 Lung Sound Classification (Deep Learning) | Team Lead – Novitech
+- Led a team project at **Novitech** focused on classifying lung sounds for respiratory analysis.
+- Coordinated model development, preprocessing, and result evaluation.
+- Built a deep learning model to identify abnormal breathing patterns from audio data.
+- Focused on improving accuracy through preprocessing and feature extraction.
 - **Tech Stack:** Python, Deep Learning, Audio Processing
 
 - ### 🧠 Named Entity Recognition (NER) App
