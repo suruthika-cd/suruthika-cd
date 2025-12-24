@@ -36,7 +36,7 @@ I enjoy converting ideas into working solutions and continuously improving my te
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: *(add later)*  
-- Email: *(optional)*  
+- LinkedIn: www.linkedin.com/in/suruthika-cd  
+- Email: suruthika286@gmail.com 
 
 ⭐ Feel free to explore my repositories and follow my learning journey!
