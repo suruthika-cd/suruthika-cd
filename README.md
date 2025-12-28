@@ -1,65 +1,24 @@
-# Hi, I'm Suruthika 👋  
+# 💫 About Me:
+Hi 👋 I’m Suruthika, a AIML student with a strong interest in<br>Machine Learning, NLP, and Generative AI.<br><br>I enjoy building practical projects that solve real-world problems and<br>automate workflows. I have worked on projects like an NLP-based ATS Resume<br>Analyzer and Named Entity Recognition applications.<br><br>Currently, I’m improving my skills in Python, SQL, ML, Deep Learning basics,<br>and AI automation using n8n. I’m also learning Excel and Power BI as a backup<br>data analytics skill.<br><br>I believe in learning by doing and continuously upgrading my skills through<br>hands-on projects and problem-solving.<br>
 
-🎓 Student Developer | 🤖 AI / ML | 🧠 NLP & GenAI Enthusiast  
 
-I’m a passionate student focused on building practical projects in **Machine Learning, Natural Language Processing, and Generative AI**.  
-I enjoy converting ideas into working solutions and continuously improving my technical skills.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suruthika-cd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suruthika286@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=suruthika-cd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=suruthika-cd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suruthika-cd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 Skills & Technologies
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **Programming:** Python, SQL  
-- **AI / ML:** Machine Learning, Deep Learning  
-- **NLP:** Text Classification, NER, TF-IDF, ATS Scoring  
-- **Tools & Frameworks:** Git, GitHub, Jupyter, Gradio  
-- **Databases:** MySQL  
-- **Currently Learning:** Advanced NLP, GenAI, LeetCode (DSA)
-
----
-
-## 📌 Featured Projects (coming soon)
-### 📄 ATS Eligibility Checker (NLP-Based)
-- Built an NLP-based ATS system where candidates enter their skills manually.
-- Compares candidate skills with required job skills.
-- Displays eligibility status based on skill match percentage.
-- Clearly highlights **matched** and **unmatched** skills for transparency.
-- **Tech Stack:** Python, NLP, Text Matching
-
-### 🫁 Lung Sound Classification (Deep Learning) | Team Lead – Novitech
-- Led a team project at **Novitech** focused on classifying lung sounds for respiratory analysis.
-- Coordinated model development, preprocessing, and result evaluation.
-- Built a deep learning model to identify abnormal breathing patterns from audio data.
-- Focused on improving accuracy through preprocessing and feature extraction.
-- **Tech Stack:** Python, Deep Learning, Audio Processing
-
-- ### 🧠 Named Entity Recognition (NER) App
-- Implemented an NLP application to extract entities such as Name, Organization, Location, and Date.
-- Built an interactive interface for real-time text analysis.
-- **Tech Stack:** Python, spaCy, NLP, Gradio
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=suruthika-cd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=suruthika-cd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔁 n8n Workflow Automation
-- Designed automated workflows using n8n for real-time decision-making.
-- Integrated webhooks, conditional logic (IF/ELSE), and email automation.
-- Used for resume processing, chatbot flows, and task automation.
-- **Tech Stack:** n8n, Webhooks, API Integration, Automation
-
-
-> I focus on **quality projects with clear problem statements and clean code**.
-
----
-
-## 🌱 What I’m Working On
-- Building end-to-end NLP projects  
-- Improving problem-solving & DSA skills  
-- Preparing for placements with strong projects  
-
----
-
-## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/suruthika-cd  
-- Email: suruthika286@gmail.com 
-
-⭐ Feel free to explore my repositories and follow my learning journey!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
